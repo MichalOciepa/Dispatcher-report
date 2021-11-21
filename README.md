@@ -16,5 +16,5 @@ Important ! Remember if you want polish characters, import csv file in utf-8 sys
 ![Screenshot2](https://i.ibb.co/x787Zfh/simple-csv-screen.jpg)
 
 ## Live 📍
-Please visit the website
+Please visit the website (login: miszka, pwd: mcov)
 https://mociepa.pl/dispatcher/
